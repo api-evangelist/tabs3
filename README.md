@@ -64,23 +64,85 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Tabs3 is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Tabs3 provides cloud‑based practice management software for law firms, offering integrated billing, accounting, case management, and reporting tools. Their platform helps legal professionals improve profitability, streamline workflows, and maintain compliance with trust accounting standards, serving thousands of firms worldwide.
 
-**Areas:** Company
+**Areas:** Company · SaaS · LegalTech · PracticeManagement · CloudSoftware
 
 ## Tabs3 on APIs.io
 
 Everything profiled for Tabs3 is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/tabs3/](https://apis.io/providers/tabs3/)** — or go straight to one of the APIs or properties below.
 
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Tabs3 Domain Security](https://apis.io/security/tabs3/tabs3-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Tabs3 Plans Pricing](https://apis.io/plans/tabs3/tabs3-plans-pricing/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
-- [Website](https://tabs3.com/)
+- [Website](https://www.tabs3.com/)
+- [Documentation](https://help.tabs3.com/)
+- [Pricing](https://www.tabs3.com/pricing/)
+- [Support](https://support.tabs3.com/)
+- [Changelog](https://www.tabs3.com/whats-new)
+- [Blog](https://www.tabs3.com/blog/)
+- [Terms of service](https://www.tabs3.com/terms-of-service/)
+- [Privacy policy](https://www.tabs3.com/privacy/)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/tabs3/](https://apis.io/providers/tabs3/).
+**Kin Score 22.0** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 60.0 |
+
+**Agent readiness 6.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 13.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/tabs3/](https://apis.io/providers/tabs3/).
 
 ## How this profile is made
 
